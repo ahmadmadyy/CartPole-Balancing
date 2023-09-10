@@ -1,0 +1,7 @@
+1. Applied Reinforcement Learning IV: Implementation of DQN: https://towardsdatascience.com/applied-reinforcement-learning-iv-implementation-of-dqn-7a9cb2c12f97
+
+
+2. DQN Github: https://github.com/JavierMtz5/ArtificialIntelligence/blob/main/DQN/test_dqn_agent.py
+
+
+3. 

@@ -1,0 +1,4 @@
+I am delighted to present OpenAI's Cartpole-v1 Gym environment trained using Deep Reinforcement Learning: Deep Q-Network Algorithm (DQN). The training consisted of 150 episodes with 500 steps each on a 4-layer neural network (3 deep layers). The actions are based on an epsilon-greedy algorithm with a decaying epsilon. The training time was approximately 4 hours. 
+
+
+I am delighted to present the results of training OpenAI's Cartpole-v1 Gym environment using Deep Reinforcement Learning (RL): Deep Q-Network (DQN). The training consisted of 150 episodes, each with 500 steps. A 4-layer neural network (3 deep layers) was used to approximate the Q-function. The actions were based on an epsilon-greedy algorithm with a decaying epsilon. The training time was approximately 4 hours.
